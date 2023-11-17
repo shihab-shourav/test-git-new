@@ -1,0 +1,9 @@
+{working directory → stagging area → local repo. → remote repo.
+red → green → }
+working directory → test-project → git add → git commit → git push
+
+tracked 
+untracked
+
+changes control
+version control

@@ -1,4 +1,5 @@
 hello this is me anisul ismal
 I am 32 years old.
-I am from Bangladeshg
+I am from Bangladeshg.
 I am from Dhaka.
+I am student.

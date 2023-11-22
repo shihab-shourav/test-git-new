@@ -7,3 +7,6 @@ untracked
 
 changes control
 version control
+
+
+make change >> git add >>> git commit >> git push

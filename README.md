@@ -12,7 +12,7 @@ git push
 
 ```css
 h1{
-    color :"red;
+    color :"red";
 }
 ```
 
